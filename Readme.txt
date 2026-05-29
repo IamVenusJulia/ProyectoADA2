@@ -1,5 +1,9 @@
 Proyecto de curso: Calculando el plan de riego óptimo de una finca
-Integrantes: (Rellenar apellidos)
+Integrantes: 
+   VENUS PAIPILLA - 202343803  venus.paipilla@correounivalle.edu.co
+   DANIEL ARIAS CASTRILLÓN - 202222205  daniel.arias.castrillon@correounivalle.edu.co
+   NICOLAS ENRIQUE GRANADA FERNANDEZ - 202310107  granada.nicolas@correounivalle.edu.co
+
 =====================================================================
 
 1. ARCHIVOS ENTREGADOS
